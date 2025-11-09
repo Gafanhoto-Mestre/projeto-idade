@@ -44,8 +44,7 @@ function verificar(){
             }else if(idade < 60){
                 //idoso
                 img.setAttribute('src', 'mulher-adulta.png')
-            }
-            else if(idade < 103){
+            }else if(idade < 103){
                 //idoso
                 img.setAttribute('src', 'mulher-idosa.png')
             }else {
